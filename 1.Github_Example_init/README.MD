@@ -20,6 +20,9 @@ git config --list
 ```sh
 3.git log will show all logs 
 ``` 
+```sh
+4.git push willpush the files
+```  
 
 
 
