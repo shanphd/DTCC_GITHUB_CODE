@@ -22,7 +22,11 @@ git config --list
 ``` 
 ```sh
 4.git push willpush the files
-```  
+```   
+
+```sh
+5. git branch will give branch
+```
 
 
 
