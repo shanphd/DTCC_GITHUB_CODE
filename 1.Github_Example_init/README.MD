@@ -67,5 +67,9 @@ remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (4/4), 13.82 KiB | 70.00 KiB/s, done.
 ``` 
 
-8.
+```sh
+
+9.Adding new file
+```
+
 
