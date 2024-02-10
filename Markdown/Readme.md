@@ -5,12 +5,14 @@ https://github.github.com/gfm/
 - Heading
 - unorderedlist
 - orderedlist
-- links
+- [links] (#Links)
+- [Text Formatting](#text-formatting)
 - images 
 - autolists
 - lists
 - code
-- ables
+- ables 
+- [link](#links)
 
 
 Above is Heading Examples
@@ -65,11 +67,15 @@ __Bold__
 > # SHAN
 > awesom
  > shan 
+ > gretae 
+
 
 
 ## Links 
 
 This will link page 
+
+
 
 
 
