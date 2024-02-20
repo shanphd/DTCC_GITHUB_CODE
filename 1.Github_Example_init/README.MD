@@ -72,6 +72,10 @@ Receiving objects: 100% (4/4), 13.82 KiB | 70.00 KiB/s, done.
 9.Github tags
 ``` 
 
+```
+10.issues vs discussion vs Pullrequest 
 
+issues and pull request are imp 
+```
 
 
